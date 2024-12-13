@@ -114,7 +114,7 @@ These scores, along with the features of change and diversity, form a comprehens
 
 By analyzing the feature importance using Random Forest, it was observed that change_dynamic_score for change and diversity holds significant importance, as illustrated in Figure 6.
 <figure style="text-align: center;">
-  <img src="figures/feature_importance.png" alt="Feature Importance" style="width: 60%;">
+  <img src="figures/feature_importance.png" alt="Feature Importance" style="width: 100%;">
   <figcaption><em>Figure 6: Feature importance</em></figcaption>
 </figure>
 
